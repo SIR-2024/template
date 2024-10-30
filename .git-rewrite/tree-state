@@ -1,0 +1,5 @@
+.gitattributes
+sic_framework/services/webserver/static/images/vu_logo.jpg
+conf/dialogflow/.keepme
+conf/openai/.keepme
+sir_code/add_your_code_here
